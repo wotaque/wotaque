@@ -34,7 +34,7 @@ with a BA in Economics :woman_student: <br><br>
 </div>
 
 <p align="center">
-    <img height="250px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselynle&layout=compact">
-    <img height="250px" width="405px" src="https://github-readme-stats.vercel.app/api?username=roselynle&show_icons=true"><br><br>
+    <img height="250px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wotaque&layout=compact">
+    <img height="250px" width="405px" src="https://github-readme-stats.vercel.app/api?username=wotaque&show_icons=true"><br><br>
     <a href="https://github.com/wotaque/github-readme-stats"></a>
 </p>
