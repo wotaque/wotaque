@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I am Marina </h1>
 
-<p align="center">In 2011 graduated from 
+<p align="center">In 2011 I graduated from 
 <a href="https://en.unecon.ru/">Saint-Petersburg State Univercity of Economics and Engeneering</a>
 with a BA in Economics :woman_student: <br><br> 
   
