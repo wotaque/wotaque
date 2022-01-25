@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I am Marina </h1>
 
-<p align="center">I graduated from the <a href="https://www.manchester.ac.uk/">Saint-Petersburg State Univercity of Economics and Engeneering</a> in 2011 with a BA in Economics :woman_student: <br><br> 
+<p align="center">I graduated from the <a href="https://en.unecon.ru/">Saint-Petersburg State Univercity of Economics and Engeneering</a> in 2011 with a BA in Economics :woman_student: <br><br> 
   
 <!--   Post graduation I worked as an associate at <a href="https://www.pwc.co.uk/">PriceWaterhouseCoopers LLP UK</a>, specifically within their <a href="https://www.pwc.com/gx/en/services/audit-assurance.html">Audit and Assurance</a> Services business unit :woman_office_worker:<br><br> I decided to explore a potential career within the technology industry which led me to join <a href="https://getfutureproof.co.uk">futureproof</a> as a trainee full stack developer on their coding bootcamp. -->
 <!-- Currently I am working as a Junior Data Engineer at <a href="https://www.zego.com/">Zego Insurance</a> :woman_technologist: -->
@@ -21,8 +21,6 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
