@@ -1,11 +1,9 @@
 <h1 align="center"> Hi, I am Marina </h1>
 
 <p align="center">I graduated from <br/>
-<a href="https://en.unecon.ru/">Saint-Petersburg State Univercity of Economics and Engeneering</a>
+<a href="https://en.unecon.ru/">Saint-Petersburg State University of Engineering and Economics</a>
 in 2011 with a BA in Economics :woman_student: <br><br> 
   
-<!--   Post graduation I worked as an associate at <a href="https://www.pwc.co.uk/">PriceWaterhouseCoopers LLP UK</a>, specifically within their <a href="https://www.pwc.com/gx/en/services/audit-assurance.html">Audit and Assurance</a> Services business unit :woman_office_worker:<br><br> I decided to explore a potential career within the technology industry which led me to join <a href="https://getfutureproof.co.uk">futureproof</a> as a trainee full stack developer on their coding bootcamp. -->
-<!-- Currently I am working as a Junior Data Engineer at <a href="https://www.zego.com/">Zego Insurance</a> :woman_technologist: -->
 </p>
 
 <p align="center">Feel free to reach out to me on <a href="https://www.linkedin.com/in/wotaque/">LinkedIn</a> 📫</p>
